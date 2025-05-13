@@ -19,7 +19,7 @@ const Contacts = () => {
             <h1>Contact Me</h1>
                 <input type="text" placeholder='username' onChange={(e)=>setname(e.target.value)} required/><br/>
                 <input type="email" placeholder='email' onChange={(e)=>setemail(e.target.value)} required/><br/>
-                <textarea name="" id="" onChange={(e)=>setmessage(e.target.value)} required></textarea><br/>
+                <textarea name="" id="" placeholder="message here" onChange={(e)=>setmessage(e.target.value)} required></textarea><br/>
                 <button type='submit'>send message</button>
             </form>
           

@@ -9,7 +9,7 @@ const About = () => {
                     web technologies. I specialize in building responsive,user-centric web applications using Python, Django,Django RestFramework,React,JavaScript,HTML,CSS.
                     </p>
                 <p>
-                    With a background in computer science and hands-on experience in building Data Science and Web Developer projects like <strong>Flight price prediction,Insurance Cost Prediction.
+                    With a background in computer science and hands-on experience in building Data Science and Web Developer projects like <strong>Flight price prediction,Insurance Cost Prediction,
                     PortFolio webistes, Restaurant management application </strong> and various interactive UI components.I bring both
                     technical skill and creative problem-solving to every project i undertake.
                 </p>
