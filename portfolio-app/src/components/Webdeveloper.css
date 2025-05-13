@@ -1,0 +1,19 @@
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background:linear-gradient(to right,rgb(88, 87, 90),rgb(7, 7, 64));
+    min-height: 500px;
+}
+.project ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    
+}
+.project ul li{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+}

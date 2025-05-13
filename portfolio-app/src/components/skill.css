@@ -1,0 +1,12 @@
+.skill{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background:linear-gradient(to right,rgb(88, 87, 90),rgb(7, 7, 64));
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 500px;
+}
+.skill ul{
+    list-style: none;
+}

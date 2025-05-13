@@ -1,0 +1,35 @@
+.Home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background:linear-gradient(to right,rgb(88, 87, 90),rgb(7, 7, 64));
+    font-family: 'Segoe UI', sans-serif;
+}
+.Home-text{
+    max-width: 60%;
+    
+}
+.Home h1{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.Home p{
+    font-size: 1.2rem;
+  
+
+}
+.Home img {
+    width: 500px;/* Adjust the size as needed */
+    height: 500px;/* Ensure width and height are equal */
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow:0 8px 20px rgba(0,0,0,0.2);
+    margin-left: 20px;
+    overflow: hidden;
+  }
+.home a{
+    list-style: none;
+}

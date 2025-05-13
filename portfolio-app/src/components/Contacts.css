@@ -1,0 +1,39 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background:linear-gradient(to right,#58575a,rgb(7, 7, 64));
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 500px;
+}
+.form-content .contact-details{
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+    padding: 20px;
+   min-width: 500px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+
+
+}
+.form-content input[type='text'],
+.form-content input[type='email'],
+.form-content textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 10px solid #ccc;
+    border-radius: 5px;
+
+}
+
+.form-content button:hover{
+    background-color:blue;
+    color: white;
+    border-bottom: red;
+    border:none;
+}
+h1{
+    text-align: center;
+}

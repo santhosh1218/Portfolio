@@ -1,0 +1,45 @@
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    background:linear-gradient(to right,rgb(88, 87, 90),rgb(7, 7, 64));
+    min-height: 500px;
+}
+.project ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    
+}
+.project ul li{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.project img{
+    height: 250px;
+    width: 300px;
+}
+.name{
+    text-align: center;
+}
+button{
+    margin-left: 90px;
+    color: blue;
+}
+button:hover{
+    background-color:lightslategray;
+    color: white;
+}
+.project input[type='submit']{
+   position: fixed;
+   top:70px;
+   left:20px;
+   padding: 10px 15px;
+   cursor: pointer;
+}
+.project input[type='submit']:hover{
+    background-color: rgb(85, 85, 178);
+    color: white;
+}

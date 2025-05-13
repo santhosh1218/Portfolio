@@ -1,0 +1,28 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:linear-gradient(to right,rgb(88, 87, 90),rgb(7, 7, 64));
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 500px;
+}
+.about-text{
+    max-width: 80%;
+    margin: 10px 120px;
+
+    
+}
+.about h1{
+    padding-top: 1px;
+    font-size: 1.5rem;
+    text-align: center;
+
+
+}
+.about p{
+    font-size: 1.2rem;
+    font-family:'Times New Roman', Times, serif;
+  
+
+}
+
